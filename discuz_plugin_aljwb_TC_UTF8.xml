@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="Version"><![CDATA[X3.3]]></item>
+	<item id="Time"><![CDATA[2017-06-20 15:42]]></item>
+	<item id="From"><![CDATA[Discuz! Board (http://localhost:8888/x/)]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[1]]></item>
+			<item id="adminid"><![CDATA[1]]></item>
+			<item id="name"><![CDATA[【亮劍】微博登錄]]></item>
+			<item id="identifier"><![CDATA[aljwb]]></item>
+			<item id="description"><![CDATA[亮劍榮譽出品,品質保證]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[aljwb/]]></item>
+			<item id="copyright"><![CDATA[亮劍雲工作室]]></item>
+			<item id="version"><![CDATA[1.0.1]]></item>
+			<item id="__modules">
+				<item id="0">
+					<item id="name"><![CDATA[app]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[亮劍免費計劃]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="1">
+					<item id="name"><![CDATA[hook]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[11]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="2">
+					<item id="name"><![CDATA[hook]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[28]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="version"><![CDATA[X2.5,X3,X3.1,X3.2,X3.3,F1.0]]></item>
+		<item id="var">
+			<item id="0">
+				<item id="displayorder"><![CDATA[0]]></item>
+				<item id="title"><![CDATA[App Key]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[appid]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="1">
+				<item id="displayorder"><![CDATA[1]]></item>
+				<item id="title"><![CDATA[App Secret]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[appkey]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="2">
+				<item id="displayorder"><![CDATA[2]]></item>
+				<item id="title"><![CDATA[統一授權域名]]></item>
+				<item id="description"><![CDATA[請填寫您站點的域名]]></item>
+				<item id="variable"><![CDATA[url]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[http://www.dzx30.com/]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+		</item>
+		<item id="language">
+			<item id="scriptlang">
+				<item id="aljwb_inc_php_1"><![CDATA[作者]]></item>
+				<item id="aljwb_inc_php_2"><![CDATA[亮劍工作室]]></item>
+				<item id="aljwb_inc_php_3"><![CDATA[技術支持]]></item>
+				<item id="aljwb_inc_php_4"><![CDATA[客服]]></item>
+				<item id="aljwb_inc_php_5"><![CDATA[通過微博快捷登錄成功\！！！]]></item>
+				<item id="aljwb_inc_php_6"><![CDATA[您的帳號已成功\綁定微博帳號！！！]]></item>
+				<item id="aljwb_inc_php_7"><![CDATA[請先注冊後再綁定微博，即可使用微博一鍵登錄！]]></item>
+				<item id="hook_class_php_5"><![CDATA[帖內顯示登錄按鈕]]></item>
+				<item id="hook_class_php_6"><![CDATA[登錄頁顯示登錄按鈕]]></item>
+				<item id="hook_class_php_7"><![CDATA[注冊頁顯示登錄按鈕]]></item>
+				<item id="hook_class_php_8"><![CDATA[論壇版塊快速發表處顯示微信登錄]]></item>
+			</item>
+			<item id="templatelang">
+				<item id="wb_htm_1"><![CDATA[只需一步，快速開始]]></item>
+			</item>
+		</item>
+		<item id="installfile"><![CDATA[install.php]]></item>
+		<item id="uninstallfile"><![CDATA[uninstall.php]]></item>
+	</item>
+</root>
